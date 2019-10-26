@@ -1,0 +1,108 @@
+@media (max-width: 480px) {
+
+    .wrapper {
+        width: 100%;
+    }
+
+    header {
+       width: 100%;
+    }
+
+    header nav {
+        display: block;
+        padding: 20px 15px 20px 15px;
+    }
+
+    header h1 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    header li {
+        font-size: 14px;
+        margin: 0 12px 0 0;
+    }
+
+    header img {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .container {
+        width: 100%;
+        padding: 0 15px;
+        display: block;
+        margin: 0 0;
+    }
+
+    .main {
+        width: 100%;
+        display: block;
+    }
+
+    .main h2 {
+        font-size: 22px;
+    }
+
+    .about {
+        font-size: 16px;
+        margin: 0 0 60px 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about .section {
+        width: 100%;
+    }
+
+    .about .section img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .news .section {
+        display: block;
+        font-size: 14px;
+    }
+
+    .news .btn {
+        margin: 20px auto 60px auto;
+    }
+
+    .side {
+        width: 100%;
+    }
+
+    .side .title {
+        margin-top: 40px;
+    }
+
+    .side .section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .side h2 {
+        font-size: 22px;
+    }
+
+    .side img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        padding: 0 22px;
+        margin-bottom: 20px;
+    }
+
+    .side ul {
+        margin-bottom: 45px;
+    }
+
+    .side li {
+        font-size: 14px;
+    }
+}
